@@ -1,0 +1,32 @@
+{
+    "short_name": "OC QR",
+    "name": "Catenary OCTA QR",
+    "id": "octaqr.catenarymaps.org",
+    "display_override": ["window-controls-overlay"],
+    "display": "standalone",
+    "scope": ".",
+    "categories": [
+        "utilities",
+        "travel",
+        "navigation"
+    ],
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "1667x1667",
+            "purpose": "any"
+        }
+    ],
+    "protocol_handlers": [
+        {
+            "protocol": "web+catenary",
+            "url": "/#%s"
+        }
+    ],
+    "start_url": "/?utm_source=pwa",
+    "background_color": "#0A233F",
+    "theme_color": "#0A233F",
+    "description": "F You, Die QR code generator from Catenary Maps"
+}
