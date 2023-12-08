@@ -13,9 +13,9 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "logo.png",
-            "type": "image/png",
-            "sizes": "1667x1667",
+            "src": "f-u-die.jpg",
+            "type": "image/jpg",
+            "sizes": "866x866",
             "purpose": "any"
         }
     ],
