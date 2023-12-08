@@ -3,6 +3,7 @@
     "name": "Catenary OCTA QR",
     "id": "octaqr.catenarymaps.org",
     "display_override": ["window-controls-overlay"],
+    "prefer_related_applications": false,
     "display": "standalone",
     "scope": ".",
     "categories": [
@@ -16,6 +17,18 @@
             "src": "f-u-die.jpg",
             "type": "image/jpg",
             "sizes": "866x866",
+            "purpose": "any"
+        },
+        {
+            "src": "f-u-die-512.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "f-u-die-192.jpg",
+            "type": "image/jpg",
+            "sizes": "192x192",
             "purpose": "any"
         }
     ],
