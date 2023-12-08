@@ -27,15 +27,15 @@
 
      <title>Catenary Maps - OC Fares</title>
 
-<div class='flex flex-col h-screen overflow-y-none'>
-    <div class='relative h-64 flex flex-col'>
-       <div>
+<div class='flex flex-col h-full overflow-y-clip'>
+    <div class='relative overflow-x-clip h-64 flex flex-col'>
+       <div class='overflow-x-clip'>
         <div class='absolute top-0 overflow-x-clip h-[50%]  fudie bg-[#3b76bb]'>
 
-            <div class='fudieblocktop'></div>
-            <div class='fudieblocktop'></div>
+            <div class='fudieblocktop overflow-x-clip'></div>
+            <div class='fudieblocktop overflow-x-clip'></div>
 
-            <div class='fudieblocktop'></div>
+            <div class='fudieblocktop overflow-x-clip'></div>
         </div>
         
         <div class='absolute bottom-0 overflow-x-clip h-[50%] bg-green-500 bg-[#5c92cd] fudie'>
