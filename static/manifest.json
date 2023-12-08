@@ -33,10 +33,6 @@
         }
     ],
     "protocol_handlers": [
-        {
-            "protocol": "web+catenary",
-            "url": "/#%s"
-        }
     ],
     "screenshots": [
         {
