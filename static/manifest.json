@@ -38,6 +38,20 @@
             "url": "/#%s"
         }
     ],
+    "screenshots": [
+        {
+          "src": "/screenshot-narrow.png",
+          "type": "image/png",
+          "sizes": "484x1048",
+          "form_factor": "narrow"
+        },
+        {
+          "src": "/screenshot-wide.png",
+          "type": "image/png",
+          "sizes": "1563x1540",
+          "form_factor": "wide"
+        }
+      ],
     "start_url": "/?utm_source=pwa",
     "background_color": "#0A233F",
     "theme_color": "#0A233F",
