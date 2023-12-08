@@ -14,20 +14,20 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "f-u-die.jpg",
-            "type": "image/jpg",
+            "src": "f-u-die.png",
+            "type": "image/png",
             "sizes": "866x866",
             "purpose": "any"
         },
         {
-            "src": "f-u-die-512.jpg",
-            "type": "image/jpg",
+            "src": "f-u-die-512.png",
+            "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
         },
         {
-            "src": "f-u-die-192.jpg",
-            "type": "image/jpg",
+            "src": "f-u-die-192.png",
+            "type": "image/png",
             "sizes": "192x192",
             "purpose": "any"
         }
